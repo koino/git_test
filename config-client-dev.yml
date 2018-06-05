@@ -1,1 +1,3 @@
-dev-dex
+profile: dev-default
+server:
+  port: 13000
